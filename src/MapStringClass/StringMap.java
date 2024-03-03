@@ -14,6 +14,8 @@ public class StringMap {
 				mp.put(s, null);
 			}
 			System.out.println(mp);
+			System.out.println("sinthuja added feature");
+			System.out.println("Sinthuja new conflict");
 		}
 	}
 		
